@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MOVIEDATABASE" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/lavender</item>
+    </style>
+
+    <style name="Theme.MOVIEDATABASE" parent="Base.Theme.MOVIEDATABASE" />
+
+    <style name="RoundCorner" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+        <item name="color">@color/white</item>
+
+    </style>
+</resources>
